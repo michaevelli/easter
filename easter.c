@@ -1,9 +1,4 @@
-//name: michael
-//date: 20170306
-//find easter date
-
 #include <stdio.h>
-
 
 int main(void){
     int year, a, b, c, d, e, f, g, h, i, k, l, m, month, p, date;
