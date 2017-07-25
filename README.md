@@ -5,12 +5,12 @@ Utilises formula at https://www.drupal.org/node/1180480
 
 ## Usage
 
-```bash
-$ gcc easter.c -o easter
-$ ./easter
-Enter Year: 2017
+<pre>
+$ <b>gcc easter.c -o easter</b>
+$ <b>./easter</b>
+Enter Year: <b>2017</b>
 Easter is April 16 in 2017
-```
+</pre>
 
 ## Installation
 
